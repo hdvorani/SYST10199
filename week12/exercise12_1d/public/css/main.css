@@ -1,0 +1,36 @@
+/* General Styling */
+body {
+  background-color: #f4f4f4;
+  color: #333;
+}
+
+/* Header Styling */
+header {
+  /* padding: 1rem; */
+  text-align: center;
+}
+
+/* Main Content Styling */
+main {
+  max-width: 200px;
+  margin: auto;
+}
+
+/* Heading Styles */
+h1 {
+  font-size: 2.5rem;
+  margin: 0.5rem 0;
+  background-color: blue;
+  color: white;
+}
+
+h2 {
+  font-size: 2rem;
+  margin: 0.5rem 0;
+  color: red;
+}
+
+p{
+  font-size: 1.2rem;
+  font-weight: bold;
+} 
